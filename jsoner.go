@@ -15,10 +15,10 @@ var Maches = []Map{
 	Map{"start": "/*", "end": "*/"},
 }
 
-//Discarding discarding comments
+//Discard discarding comments
 //@params:content
 //@resturns: string simple json
-func Discarding(content string) (string, error) {
+func Discard(content string) (string, error) {
 	var (
 		buffer    bytes.Buffer
 		flag      int
