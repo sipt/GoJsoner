@@ -3,7 +3,7 @@ Loading JSON file in Golang and discarding comments.
 
 ## Installation
 
-Install Redigo using the "go get" command:
+Install GoJsoner using the "go get" command:
 
 ```
 go get github.com/sipt/GoJsoner
@@ -34,9 +34,4 @@ output
 {"name":"测试","age":26}
 ```
 
-## Custom Maches
-
-```go
-
-```
 
