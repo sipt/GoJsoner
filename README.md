@@ -12,7 +12,7 @@ go get github.com/sipt/GoJsoner
 ## Examples
 
 ```Go
-result, err := Discarding(`
+result, err := Discard(`
 		{//test comment1
 			"name": "测试",
 			/**
